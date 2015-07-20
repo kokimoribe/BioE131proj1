@@ -1,4 +1,4 @@
-# BioE131proj1
+# BioE131 Group Project 1
 
 - Objective: Write a program that retrieves information across health science databases based on a search query and use that information to create a biology-themed card game.
 
