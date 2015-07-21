@@ -1,0 +1,11 @@
+Our general approach for obtaining the information used for our cards was by using Biopython. Biopython allowed us to easily automate Entrez’s search engine to specifically find 30 proto-oncogenes in humans and fetch information about these genes across multiple databases. We then stored the information about each gene in a Card object, a class that we defined in our code. Our code then writes the information of all 30 cards to a single .txt file in an easy to read format.
+
+More information about the code is documented in the comments of the file.
+
+
+Contributions:
+	Yi-hsuan Fu: Brainstormed the proto-oncogene theme. Designed the format of the card and printed them out. Layed out ideas on how to approach obtaining the information.
+
+	Hye-In Son: Provided graphics for cards and researched potential ideas for the statistical attributes of the cards using the Entrez search engine.
+
+	Koki Moribe: Wrote the majority of the Python script and helped group members with using Biopython.
