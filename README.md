@@ -1,6 +1,6 @@
 ###About this project:
 
-Project date: 10/10/2013
+- **Project date**: 10/10/2013
 
 - **Objective**: Write a program that retrieves information across health science databases based on a search query and use that information to create a biology-themed card game.
 
@@ -11,8 +11,8 @@ Project date: 10/10/2013
 ###How to use:
 
 1. Install Biopython (http://biopython.org/wiki/Download)
-2. Run entrez_proto-oncogene.py via command-line: ```python entrez_proto-oncogene.py```
-3. Open output.txt to view the results. (Located in the same directory as entrez_proto-oncogene.py)
+2. Run *entrez_proto-oncogene.py* via command-line: ```python entrez_proto-oncogene.py```
+3. Open *output.txt* to view the results. (Located in the same directory as entrez_proto-oncogene.py)
 
 ###Notes:
 - This program was created and run using Biopython 1.62 and Python 2.7.5 in September/October 2013. Current updates to Biopython, Python, or the Entrez database may or may not be compatible with the final version of the code.
