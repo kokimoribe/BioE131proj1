@@ -2,7 +2,6 @@ Our general approach for obtaining the information used for our cards was by usi
 
 More information about the code is documented in the comments of the file.
 
-
 Contributions:
 	Yi-hsuan Fu: Brainstormed the proto-oncogene theme. Designed the format of the card and printed them out. Layed out ideas on how to approach obtaining the information.
 
