@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 """
-Yi-hsuan full
+Yi-hsuan Fu
 Koki Moribe
 Hye-In Son
 
